@@ -1,0 +1,14 @@
+Flask
+jsonpickle
+flask-cors
+numpy==1.15.4
+opencv-contrib-python==3.4.4.19
+pillow>=6.2.0
+pytesseract==0.2.6
+flask_restful
+pyarmor
+torch
+torchvision>=0.5
+python-bidi
+PyYAML
+easyocr
