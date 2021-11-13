@@ -1,11 +1,3 @@
-# @Author: Dwivedi Chandan
-# @Date:   2019-08-05T13:35:05+05:30
-# @Email:  chandandwivedi795@gmail.com
-# @Last modified by:   Dwivedi Chandan
-# @Last modified time: 2019-08-07T11:52:45+05:30
-
-
-# import the necessary packages
 from image_text_processing import *
 import numpy as np
 import argparse
