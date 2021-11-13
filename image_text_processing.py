@@ -2,7 +2,6 @@
 import cv2
 import pytesseract
 import re
-from pokemon_regex import *
 
 try:
     from PIL import Image
